@@ -1,0 +1,5 @@
+# Object files made with make
+*.o
+
+# PostScript file made by the maze generator
+*.ps
