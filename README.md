@@ -45,6 +45,12 @@ make clean
 
 ## 🗂️ Output
 
+### To run the program:
+```bash
+./pathfinder <rows> <columns> <additionalRemovableWalls>
+```
+Both rows and columns go up to **50**. The number of additional walls the user needs removed is optional and can be left blank.
+
 The program generates a `.ps` file that visually represents:
 - The hexagonal maze layout
 - The shortest path from origin (top left) to end (bottom right)
